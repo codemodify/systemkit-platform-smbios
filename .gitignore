@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# OS Specific
+.DS_Store
+
+# Testing + VMs + Build artificats + Debug artificats
+.helper-files/.vagrant
+.helper-files/temp*

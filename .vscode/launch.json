@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Attach to SUDO debbugger",
+			"type": "go",
+			"request": "launch",
+			"mode": "remote",
+			"program": "${workspaceFolder}/samples/lssmbios/main.go",
+			"port": 2345,
+			"host": "127.0.0.1",
+			"remotePath": "${workspaceFolder}/samples/lssmbios/main.go"
+		}
+	]
+}

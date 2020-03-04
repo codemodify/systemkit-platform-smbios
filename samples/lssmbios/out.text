@@ -1,0 +1,387 @@
+SMBIOS 3.1.1 - table: address: 0x40da7000, size: 3229
+###################################################
+Header.Type 222
+Header.Length 14
+Header.Handle 0
+Strings[0] -> Memory Init Complete
+Strings[1] -> End of DXE Phase
+Strings[2] -> BIOS Boot Complete
+###################################################
+Header.Type 14
+Header.Length 8
+Header.Handle 1
+Strings[0] -> Intel(R) Silicon View Technology
+###################################################
+Header.Type 16
+Header.Length 23
+Header.Handle 2
+###################################################
+Header.Type 17
+Header.Length 40
+Header.Handle 3
+Strings[0] -> ChannelA-DIMM0
+Strings[1] -> BANK 0
+Strings[2] -> Samsung
+Strings[3] -> 310CD98A
+Strings[4] -> None
+Strings[5] -> M471A2K43CB1-CTD    
+###################################################
+Header.Type 17
+Header.Length 40
+Header.Handle 4
+Strings[0] -> ChannelB-DIMM0
+Strings[1] -> BANK 2
+Strings[2] -> Samsung
+Strings[3] -> 310CD952
+Strings[4] -> None
+Strings[5] -> M471A2K43CB1-CTD    
+###################################################
+Header.Type 19
+Header.Length 31
+Header.Handle 5
+###################################################
+Header.Type 221
+Header.Length 12
+Header.Handle 6
+Strings[0] -> BIOS Guard
+###################################################
+Header.Type 221
+Header.Length 26
+Header.Handle 7
+Strings[0] -> Reference Code - CPU
+Strings[1] -> uCode Version
+Strings[2] -> TXT ACM version
+###################################################
+Header.Type 221
+Header.Length 26
+Header.Handle 8
+Strings[0] -> Reference Code - ME
+Strings[1] -> MEBx version
+Strings[2] -> ME Firmware Version
+Strings[3] -> Corporate SKU
+###################################################
+Header.Type 221
+Header.Length 89
+Header.Handle 9
+Strings[0] -> Reference Code - CNL PCH
+Strings[1] -> PCH-CRID Status
+Strings[2] -> Disabled
+Strings[3] -> PCH-CRID Original Value
+Strings[4] -> PCH-CRID New Value
+Strings[5] -> OPROM - RST - RAID
+Strings[6] -> CNL PCH H A0 Hsio Version
+Strings[7] -> CNL PCH H Ax Hsio Version
+Strings[8] -> CNL PCH H Bx Hsio Version
+Strings[9] -> CNL PCH LP Ax Hsio Version
+Strings[10] -> CNL PCH LP B0 Hsio Version
+Strings[11] -> CNL PCH LP Bx Hsio Version
+Strings[12] -> CNL PCH LP Dx Hsio Version
+###################################################
+Header.Type 221
+Header.Length 54
+Header.Handle 10
+Strings[0] -> Reference Code - SA - System Agent
+Strings[1] -> Reference Code - MRC
+Strings[2] -> SA - PCIe Version
+Strings[3] -> SA-CRID Status
+Strings[4] -> Enabled 
+Strings[5] -> SA-CRID Original Value
+Strings[6] -> SA-CRID New Value
+Strings[7] -> OPROM - VBIOS
+###################################################
+Header.Type 221
+Header.Length 12
+Header.Handle 11
+Strings[0] -> FSP Binary Version
+###################################################
+Header.Type 7
+Header.Length 27
+Header.Handle 12
+Strings[0] -> L1 Cache
+###################################################
+Header.Type 7
+Header.Length 27
+Header.Handle 13
+Strings[0] -> L2 Cache
+###################################################
+Header.Type 7
+Header.Length 27
+Header.Handle 14
+Strings[0] -> L3 Cache
+###################################################
+Header.Type 4
+Header.Length 48
+Header.Handle 15
+Strings[0] -> U3E1
+Strings[1] -> Intel(R) Corporation
+Strings[2] -> Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz
+Strings[3] -> None
+Strings[4] -> None
+Strings[5] -> None
+###################################################
+Header.Type 134
+Header.Length 13
+Header.Handle 16
+###################################################
+Header.Type 0
+Header.Length 24
+Header.Handle 17
+Strings[0] -> LENOVO
+Strings[1] -> N2EET43W (1.25 )
+Strings[2] -> 10/28/2019
+###################################################
+Header.Type 1
+Header.Length 27
+Header.Handle 18
+Strings[0] -> LENOVO
+Strings[1] -> 20MF000DUS
+Strings[2] -> ThinkPad X1 Extreme
+Strings[3] -> R90VCAEW
+Strings[4] -> LENOVO_MT_20MF_BU_Think_FM_ThinkPad X1 Extreme
+Strings[5] -> ThinkPad X1 Extreme
+###################################################
+Header.Type 2
+Header.Length 15
+Header.Handle 19
+Strings[0] -> LENOVO
+Strings[1] -> 20MF000DUS
+Strings[2] -> Not Defined
+Strings[3] -> W1KS96C10B3
+Strings[4] -> Not Available
+Strings[5] -> Not Available
+###################################################
+Header.Type 3
+Header.Length 22
+Header.Handle 20
+Strings[0] -> LENOVO
+Strings[1] -> None
+Strings[2] -> R90VCAEW
+Strings[3] -> No Asset Information
+Strings[4] -> LENOVO_MT_20MF_BU_Think_FM_ThinkPad X1 Extreme
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 21
+Strings[0] -> Not Available
+Strings[1] -> USB 1
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 22
+Strings[0] -> Not Available
+Strings[1] -> USB 2
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 23
+Strings[0] -> Not Available
+Strings[1] -> USB 3
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 24
+Strings[0] -> Not Available
+Strings[1] -> USB 4
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 25
+Strings[0] -> Not Available
+Strings[1] -> USB 5
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 26
+Strings[0] -> Not Available
+Strings[1] -> USB 6
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 27
+Strings[0] -> Not Available
+Strings[1] -> USB 7
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 28
+Strings[0] -> Not Available
+Strings[1] -> USB 8
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 29
+Strings[0] -> Not Available
+Strings[1] -> USB 9
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 30
+Strings[0] -> Not Available
+Strings[1] -> Ethernet
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 31
+Strings[0] -> Not Available
+Strings[1] -> External Monitor
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 32
+Strings[0] -> Not Available
+Strings[1] -> Hdmi1
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 33
+Strings[0] -> Not Available
+Strings[1] -> Hdmi2
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 34
+Strings[0] -> Not Available
+Strings[1] -> DisplayPort1
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 35
+Strings[0] -> Not Available
+Strings[1] -> DisplayPort2
+###################################################
+Header.Type 8
+Header.Length 9
+Header.Handle 36
+Strings[0] -> Not Available
+Strings[1] -> Headphone/Microphone Combo Jack1
+###################################################
+Header.Type 126
+Header.Length 9
+Header.Handle 37
+Strings[0] -> Not Available
+Strings[1] -> Headphone/Microphone Combo Jack2
+###################################################
+Header.Type 9
+Header.Length 17
+Header.Handle 38
+Strings[0] -> Media Card Slot
+###################################################
+Header.Type 9
+Header.Length 17
+Header.Handle 39
+Strings[0] -> SimCard Slot
+###################################################
+Header.Type 12
+Header.Length 5
+Header.Handle 40
+###################################################
+Header.Type 13
+Header.Length 22
+Header.Handle 41
+Strings[0] -> en-US
+###################################################
+Header.Type 22
+Header.Length 26
+Header.Handle 42
+Strings[0] -> Front
+Strings[1] -> Celxpert
+Strings[2] -> 01AY969
+Strings[3] -> 03.01
+Strings[4] -> LiP
+###################################################
+Header.Type 126
+Header.Length 26
+Header.Handle 43
+###################################################
+Header.Type 133
+Header.Length 5
+Header.Handle 44
+Strings[0] -> KHOIHGIUCCHHII
+###################################################
+Header.Type 135
+Header.Length 19
+Header.Handle 45
+###################################################
+Header.Type 130
+Header.Length 20
+Header.Handle 46
+###################################################
+Header.Type 131
+Header.Length 64
+Header.Handle 47
+###################################################
+Header.Type 24
+Header.Length 5
+Header.Handle 48
+###################################################
+Header.Type 132
+Header.Length 7
+Header.Handle 49
+###################################################
+Header.Type 18
+Header.Length 23
+Header.Handle 50
+###################################################
+Header.Type 21
+Header.Length 7
+Header.Handle 51
+###################################################
+Header.Type 21
+Header.Length 7
+Header.Handle 52
+###################################################
+Header.Type 131
+Header.Length 22
+Header.Handle 53
+Strings[0] -> TVT-Enablement
+###################################################
+Header.Type 136
+Header.Length 6
+Header.Handle 54
+###################################################
+Header.Type 15
+Header.Length 31
+Header.Handle 55
+###################################################
+Header.Type 140
+Header.Length 19
+Header.Handle 56
+###################################################
+Header.Type 140
+Header.Length 19
+Header.Handle 57
+###################################################
+Header.Type 140
+Header.Length 23
+Header.Handle 58
+###################################################
+Header.Type 14
+Header.Length 8
+Header.Handle 59
+Strings[0] -> $MEI
+###################################################
+Header.Type 219
+Header.Length 106
+Header.Handle 60
+Strings[0] -> MEI1
+Strings[1] -> MEI2
+Strings[2] -> MEI3
+Strings[3] -> MEI4
+###################################################
+Header.Type 140
+Header.Length 15
+Header.Handle 61
+Strings[0] -> N2EHT28W
+Strings[1] -> 09/09/2019
+###################################################
+Header.Type 140
+Header.Length 43
+Header.Handle 62
+###################################################
+Header.Type 135
+Header.Length 18
+Header.Handle 63
+###################################################
+Header.Type 127
+Header.Length 4
+Header.Handle 65279
