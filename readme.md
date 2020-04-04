@@ -17,6 +17,15 @@
 ![](https://img.shields.io/github/watchers/codemodify/systemkit-platform-smbios?style=flat-square)
 ![](https://img.shields.io/github/forks/codemodify/systemkit-platform-smbios?style=flat-square)
 
+#### Access SMBIOS/DMI information exposed by hardware
+#### Supported: Linux, Raspberry Pi, FreeBSD, Mac OS, Windows, Solaris
+# ![](https://fonts.gstatic.com/s/i/materialicons/bookmarks/v4/24px.svg) Install
+```go
+go get github.com/codemodify/systemkit-config
+```
+
+
+
 # ![](https://fonts.gstatic.com/s/i/materialicons/bookmarks/v4/24px.svg) Specs
 - https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.1.1.pdf
 
