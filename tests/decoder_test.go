@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	smbios "github.com/codemodify/systemkit-platform-smbios"
-	"github.com/google/go-cmp/cmp"
+	cmp "github.com/google/go-cmp"
 )
 
 func TestDecoder(t *testing.T) {
